@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is empty file for learning. 
+=======
+This file is updated in a new branch. 
+Older version has another content
+>>>>>>> anotherBranch
